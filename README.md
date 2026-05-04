@@ -1,7 +1,7 @@
 # Pastimes – Pre-loved Clothing Store
 
 A PHP/MySQL web application where users can buy and sell second-hand clothing. Built with plain PHP, MySQLi, and no frameworks.
-
+https://youtu.be/1i64vPsDajE?si=zRDeFP361DSVXm5q 
 ## Project Structure
 Pastimes/
 ├── index.php            # Landing / home page
